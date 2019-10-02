@@ -40,7 +40,8 @@ main {
     margin: 0 auto;
 }
 
-main h2 {
+main h1 {
+    font-size: 28px;
     font-family: 'Slabo 27px', serif;
     padding: 0.5rem 1rem;
     background-color: #e68d34;
